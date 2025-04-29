@@ -29,7 +29,4 @@ public class ContactNumber {
 	public void setContactNumber(String contactNumber) {
 		this.contactNumber = contactNumber;
 	}
-	
-	
-
 }

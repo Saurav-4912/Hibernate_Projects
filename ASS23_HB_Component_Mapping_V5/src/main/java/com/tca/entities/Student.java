@@ -65,6 +65,5 @@ public class Student {
 	public void setContact(ContactNumber contact) {
 		this.contact = contact;
 	}
-	
-	
+
 }
